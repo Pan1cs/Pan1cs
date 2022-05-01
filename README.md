@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+
 # Welcome to my GitHub page!
 
 :wave:
