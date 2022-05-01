@@ -2,7 +2,7 @@
 
 :wave:
 
-Greetings! My name is Elias. I am a student at the Hive Helsinki code school
+Greetings! My name is Elias. I am a student at the Hive Helsinki code school.  
 Currently working Freelance at Welocalize as a Machine Learning Data Analyst.
 
 
