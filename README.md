@@ -7,9 +7,7 @@ Currently working Freelance at Welocalize as a Machine Learning Data Analyst.
 
 
 
-Firstly I'd like to introduce you to the project that I'm most proud of.
-For a quick overview of the project here's the link.
-<a href="https://github.com/Pan1cs/doom_nukem/blob/main/README.md"> Doom-Nukem</a>.
+Firstly I'd like to introduce you to the project that I'm most proud of <a href="https://github.com/Pan1cs/doom_nukem/blob/main/README.md">Doom-Nukem</a>.
 
 ## 💬 Little about me
 
