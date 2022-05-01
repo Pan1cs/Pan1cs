@@ -28,8 +28,8 @@ I've finished my Bachelor's studies and I'm looking for work.
 
 
 ## Programming languages I know:
- * C, C++, Python
- * PhP, Html, CSS
+ * C, C++, PhP, Python
+ * Html, CSS
 
   
 ## 📫 Contact  
